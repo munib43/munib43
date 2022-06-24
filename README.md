@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @munib43
+- 👀 I’m interested in Data Analysis/Data Science
+- 🌱 I’m currently working as a Data Scientist
+- 💞️ I’m like to tinker on data
+- 📫 How to reach me linkedIn : munibchougle
